@@ -14,6 +14,6 @@ const FriendDetail = () => {
             <h4>Address: {friend.address.city}</h4>
         </div>
     );
-};
+}; 
 
 export default FriendDetail;
